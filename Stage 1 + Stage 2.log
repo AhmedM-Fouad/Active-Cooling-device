@@ -1,0 +1,8 @@
+Circuit: * C:\Users\ahmed\OneDrive - MOE\Ahmed\Spring 2022\ECE 332\Term Project\Simulation\Stage 1 + Stage 2.asc
+
+Questionable use of curly braces in "r_rtr 0 tr {wc(1,tr-1,0)}"
+    Error: undefined symbol in: "[wc](1,tr-1,0)"
+Questionable use of curly braces in "r_rtb 0 tb {wc(1,tb-1,1)}"
+    Error: undefined symbol in: "[wc](1,tb-1,1)"
+Fatal Error: Unknown subcircuit called in:
+   xu3 n008 n004 v+ v- n005 opamp2
